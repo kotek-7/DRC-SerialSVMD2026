@@ -40273,9 +40273,11 @@
 	)
 	(group "MCU"
 		(uuid "b51076ad-7f9a-4863-be92-cb7f6a74412b")
-		(members "1c1c0895-eb59-40dc-8827-710e1f8367ff" "4c7d9420-bb02-4b3f-8202-d40dd3b2b0d0"
+		(members "1c1c0895-eb59-40dc-8827-710e1f8367ff" "416ed679-bc61-4eb7-82b2-ab7c9afc0445"
+			"4c7d9420-bb02-4b3f-8202-d40dd3b2b0d0" "4f1bbe0a-06b3-44bf-9376-940ff01a1ee8"
+			"7f9a0686-9390-485e-bb4f-8d3d00986382" "807f2bdb-9698-49c9-af5e-6c35ffa38271"
 			"9f8393af-8f09-4252-95af-34a7b79c215e" "c6befce5-84a5-4a3a-a24d-d3f20b46ee20"
-			"f2b7f10b-5e7b-48d9-8bca-f1c3a30363f0"
+			"e7e2af33-45cd-4822-9eb0-b0f51eae06d2" "f2b7f10b-5e7b-48d9-8bca-f1c3a30363f0"
 		)
 	)
 	(group ""

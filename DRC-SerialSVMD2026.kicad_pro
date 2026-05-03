@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 1.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -641,6 +641,10 @@
     [
       "cd3c44d0-06f7-415c-a05a-cb87f4241343",
       "SerialServoDrive"
+    ],
+    [
+      "536b2069-8c66-4216-849e-9d29241e6834",
+      "USB_Servo"
     ],
     [
       "ca6498ec-be48-4ceb-a965-2ae7649a8627",
